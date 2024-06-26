@@ -1,2 +1,3 @@
-Aluno : Willamy Josué Santos Serejo
+Atividade avaliativa com o intuito de medir conhecimento sobre bootstrap. 
+
 Projeto: Atividade Bootstrap
